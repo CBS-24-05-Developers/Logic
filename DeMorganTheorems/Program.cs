@@ -35,8 +35,10 @@ namespace DeMorganTheorems
             // Условие после применения теоремы Де Моргана.
             Console.WriteLine("!(A && B) = {0}", !(A && B));
 
+            Console.WriteLine("Some new Iformation");
             // Delay.
             Console.ReadKey();
+
         }
     }
 }
