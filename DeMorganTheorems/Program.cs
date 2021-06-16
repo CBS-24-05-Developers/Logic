@@ -36,6 +36,10 @@ namespace DeMorganTheorems
             Console.WriteLine("!(A && B) = {0}", !(A && B));
 
             Console.WriteLine("Some new Iformation");
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Hello World");
+            }
             // Delay.
             Console.ReadKey();
 
